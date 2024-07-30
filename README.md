@@ -1,1 +1,3 @@
-# Funkcion-lis-Programoz-s-BSc
+# Funkcionális Programozás BSc ELTE
+
+Itt lesznek az órák anyagai.
